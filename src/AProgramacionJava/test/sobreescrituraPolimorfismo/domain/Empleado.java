@@ -1,4 +1,4 @@
-package AProgramacionJava.test.sobreescritura.domain;
+package AProgramacionJava.test.sobreescrituraPolimorfismo.domain;
 
 public class Empleado {
     protected String nombre;
